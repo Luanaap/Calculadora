@@ -1,0 +1,8 @@
+C:\Luana-cursos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Luana-cursos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Luana-cursos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Luana-cursos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Luana-cursos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Luana-cursos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
